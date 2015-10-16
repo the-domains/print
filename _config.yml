@@ -1,6 +1,6 @@
 name: print
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8843461277429014
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.9395883698016405
